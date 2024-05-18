@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gui-ribcosta&color=yellow" alt="Profile views" /> </p>
 
 - Apaixonado por programação e tecnologia em geral;
-- Cursando o 4° período de Análise e Desenvolvimento de Sistemas;
+- Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - Atualmente trabalhando na empresa Itaú Unibanco S.A.;
-- Aspirante a programador.
+- Desenvolvedor FullStack.
 
 <div align="center" margin-top="20px" > 
 <a href="https://instagram.com/ribeiro.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
