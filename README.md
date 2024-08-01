@@ -3,7 +3,6 @@
 
 - Apaixonado por programação e tecnologia em geral;
 - Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas;
-- Atualmente trabalhando na empresa Itaú Unibanco S.A.;
 - Desenvolvedor FullStack.
 
 <div align="center" margin-top="20px" > 
