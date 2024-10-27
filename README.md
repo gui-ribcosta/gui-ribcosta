@@ -1,15 +1,16 @@
-<h1 align="left">Olá, eu sou o Guilherme </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gui-ribcosta&color=yellow" alt="Profile views" /> </p>
+### ✨ Olá, me chamo Guilherme ツ
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gui-ribcosta&color=yellow" alt="Profile views" /> </p> <br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-- Apaixonado por programação e tecnologia em geral;
-- Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas;
-- Desenvolvedor FullStack.
+👩‍💻 ***Desenvolvedor FullStack*** <br>
+🎓 Cursando ***Análise e Desenvolvimento de Sistemas.*** <br>
+📍 Rio de Janeiro, Brasil
 
 <div align="center" margin-top="20px" > 
 <a href="https://instagram.com/ribeiro.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:grcm171914@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guiribcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+ </div> <br>
 
 ## Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=ff800&labelColor=0D1117)&nbsp;
