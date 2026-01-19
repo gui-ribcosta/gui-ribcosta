@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 👩‍💻 ***Desenvolvedor FullStack*** <br>
-🎓 Cursando ***Análise e Desenvolvimento de Sistemas.*** <br>
+🎓 Cursando ***Análise e Desenvolvimento de Sistemas e Ciência da Computação.*** <br>
 📍 Rio de Janeiro, Brasil
 
 <div align="center" margin-top="20px" > 
@@ -21,8 +21,8 @@
 
 ### Studying in this moment:
 ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gui-ribcosta&bg_color=000000&color=ffffff&line=85007c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
