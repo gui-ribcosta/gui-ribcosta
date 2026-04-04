@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gui-ribcosta&color=yellow" alt="Profile views" /> </p> <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-👩‍💻 ***Desenvolvedor FullStack*** <br>
-🎓 Cursando ***Análise e Desenvolvimento de Sistemas e Ciência da Computação.*** <br>
+👩‍💻 ***Desenvolvedor FullStack Júnior*** <br>
+🎓 Cursando ***Análise e Desenvolvimento de Sistemas | Ciência da Computação.*** <br>
 📍 Rio de Janeiro, Brasil
 
 <div align="center" margin-top="20px" > 
@@ -13,16 +13,19 @@
  </div> <br>
 
 ## Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=ff800&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=ffff00&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
+
+
 
 
 ### Studying in this moment:
 ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![DotNet](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117)
+![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gui-ribcosta&bg_color=000000&color=ffffff&line=85007c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
