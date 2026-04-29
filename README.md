@@ -43,7 +43,8 @@
 
 - Arquitetura de Software  
 - Boas práticas em APIs (.NET)  
-- Frontend moderno com JavaScript / TypeScript  
+- Frontend moderno com JavaScript / TypeScript
+- Backend com C#
 
 ---
 
