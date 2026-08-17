@@ -1,8 +1,22 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme</h1>
+<h1 align="center">👋 Hi, I'm Guilherme Ribeiro</h1>
+
+
 
 <p align="center">
-  💻 Desenvolvedor FullStack <br>
-  🚀 Focado em criar soluções modernas, performáticas e escaláveis
+  💻 Full Stack Developer • .NET • React • TypeScript <br>
+  🚀 Building modern, scalable and maintainable applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guiribcosta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:grcm171914@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/gui-ribcosta">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,42 +27,61 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
-### 🧠 Sobre mim
+### 🧠About Me
 
-- 👨‍💻 Desenvolvedor FullStack 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas / Ciência da Computação  
-- 📍 Rio de Janeiro - Brasil  
-- ⚡ Focado em evolução constante e projetos reais  
+- 👨‍💻 I'm a Full Stack Developer and an **Analysis and Systems Development student**, currently focused on building real-world applications and improving my software engineering skills.
+
+- 📍 I work mainly with **C#/.NET on the backend** and **TypeScript/React/Next.js on the frontend**, with experience working with databases, APIs, Git and Docker.
+
+- ⚡ I'm continuously improving my knowledge of **software architecture, clean code, API development and modern frontend development**.
 
 ---
 
 ### 🚀 Tech Stack
 
-💡 **Principais tecnologias:**
+⚙️ **Backend:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
+<p>
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge&logo=.net&logoColor=512BD4" />
+</p>
 
-🛠️ **Ferramentas e outras skills:**
+🌐 **Frontend:**
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+🛠️ **Database & Tools:**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Currently Learning
 
-- Arquitetura de Software  
-- Boas práticas em APIs (.NET)  
-- Frontend moderno com JavaScript / TypeScript
-- Backend com C#
+- 🏗️ Software Architecture
+- 🧹 Clean Code & SOLID
+- 🔌 RESTful APIs with .NET
+- ⚛️ Advanced React & Next.js
+- 🗄️ Database design and optimization
+- 🐳 Docker & development environments
+- 🔄 Modern software development practices
 
 ---
 
-### 🌐 Contato
+### 🌐 Contact
 
 <p align="center">
   <a href="mailto:grcm171914@gmail.com">
@@ -62,25 +95,7 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=gui-ribcosta&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gui-ribcosta&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-### 📈 Activity
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gui-ribcosta&bg_color=0D1117&color=ffffff&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### ⚡ Frase
+### ⚡ Phrase
 
 > “Código bom resolve problema. Código excelente evita que ele volte.”
 
