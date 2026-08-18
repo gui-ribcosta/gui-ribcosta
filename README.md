@@ -97,5 +97,5 @@
 
 ### ⚡ Phrase
 
-> “Código bom resolve problema. Código excelente evita que ele volte.”
+> “Good code solves problems. Great code prevents them from coming back.”
 
