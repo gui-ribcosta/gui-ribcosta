@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  💻 Full Stack Developer • .NET • React • TypeScript <br>
+  💻 Backend Developer | C# · .NET · ASP.NET Core · SQL <br>
   🚀 Building modern, scalable and maintainable applications.
 </p>
 
@@ -29,55 +29,52 @@
 
 ### 🧠About Me
 
-- 👨‍💻 I'm a Full Stack Developer and an **Analysis and Systems Development student**, currently focused on building real-world applications and improving my software engineering skills.
+- 👨‍💻 I'm Software developer based in Rio de Janeiro, Brazil, working on **enterprise applications, REST APIs, web development, and system integration**
 
-- 📍 I work mainly with **C#/.NET on the backend** and **TypeScript/React/Next.js on the frontend**, with experience working with databases, APIs, Git and Docker.
+- 📍 I currently work at Dagat Smart, contributing to enterprise software development in an R&D project for Petrobras. My professional experience spans **backend services, web applications, relational databases, and integrations involving IoT technologies**.
 
-- ⚡ I'm continuously improving my knowledge of **software architecture, clean code, API development and modern frontend development**.
+- ⚡ I'm continuously improving my knowledge of **software architecture, clean code and API development**.
 
 ---
 
 ### 🚀 Tech Stack
 
-⚙️ **Backend:**
+⚙️ **Backend Development**
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4" />
-  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge&logo=.net&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="Dapper" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge" alt="REST APIs" />
 </p>
 
-🌐 **Frontend:**
+🗄️ **Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 </p>
 
-🛠️ **Database & Tools:**
+🌐 **Frontend Development**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3" />
 </p>
 
----
+🛠️ **Development Tools**
 
-### 📚 Currently Learning
-
-- 🏗️ Software Architecture
-- 🧹 Clean Code & SOLID
-- 🔌 RESTful APIs with .NET
-- ⚛️ Advanced React & Next.js
-- 🗄️ Database design and optimization
-- 🐳 Docker & development environments
-- 🔄 Modern software development practices
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+</p>
 
 ---
 
